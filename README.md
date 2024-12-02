@@ -5,4 +5,4 @@
 #Tours
 ![body main](body%20main.png)
 ![gallery](Gallery.png)
-![tours](tours.png)
+![tours](Tours.png)
